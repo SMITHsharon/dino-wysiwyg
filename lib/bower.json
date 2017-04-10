@@ -15,6 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "query": "^0.0.2"
+    "query": "^0.0.2",
+    "bootstrap": "^3.3.7"
   }
 }
