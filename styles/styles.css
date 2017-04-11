@@ -1,0 +1,41 @@
+
+
+.row {
+	margin-top: 50px;
+}
+
+
+.dottedBorder {
+	border: 2px dotted black;
+}
+
+
+.dinoCard {
+	max-width: 30%;
+	margin-right: 5%;
+	height: 400px;
+}
+
+
+.dinoCard img {
+	max-width: 100px;
+}
+
+
+
+/*alternate background colors*/
+
+#dinosaurs .dinoCard {
+	background-color: lightblue;
+}
+
+
+#dinosaurs  .row:nth-of-type(2n) .dinoCard:nth-of-type(2n) {
+	background-color: lightgoldenrodyellow;
+}
+
+
+#dinosaurs  .row:nth-of-type(2n + 1) .dinoCard:nth-of-type(2n + 1){
+	background-color: lightgoldenrodyellow;
+}
+
