@@ -8,10 +8,10 @@ Once the Dinosaur Cards display on the screen, if the user clicks on one to sele
 
 
 #### dino-WYSIWYG on Launch
-![dino-WYSIWYG on Launch](...)
+![dino-WYSIWYG on Launch]()
 
 #### dino-WYSIWYG on Click
-![dino-WYSIWYG on Click](...)
+![dino-WYSIWYG on Click]()
 
 
 ### Project Specs
