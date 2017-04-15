@@ -4,7 +4,7 @@
 
 This exercise was a class walk-through of a project-setup, and then the coding of the WYSIWYG functionality using `JQuery` on a dinosaur data set that Zoe had pre-defined for us in a `JSON` file. 
 
-Once the Dinosaur Cards display on the screen, if the user clicks on one to select, its border changes, and the user input field becomes the focus such that, any text entered in that field is mirrored in the bio description in the selected Dinosaur Card. 
+Once the Dinosaur Cards display on the screen, if the user clicks on one to select, its border changes, and the user input field becomes the focus such that, any text entered in that field is mirrored in the bio description in the selected Dinosaur Card.  
 
 
 #### dino-WYSIWYG on Launch
