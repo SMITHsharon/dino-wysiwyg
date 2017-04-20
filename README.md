@@ -24,7 +24,7 @@ Revisit the program functionality of WYSIWYG using `jQuery` on a new data set, w
 - wrote the `css` styling
 
 #### Independently, we 
-structured the DOM output in the row/column structure (using `Bootstrap`'s classes), with three dinosaur "cards" per row
+structured the DOM output in the row/column grid structure (using `Bootstrap`'s classes), with three dinosaur "cards" per row
 
 
 
@@ -32,7 +32,7 @@ structured the DOM output in the row/column structure (using `Bootstrap`'s class
 - `html`
 - `css`
 - `JavaScript`
-- `Bootstrat`
+- `Bootstrap`
 - `jQuery`
 - `Grunt`
 
@@ -46,9 +46,8 @@ cd lib
 bower install
 npm install
 http-server -p 8080
+This will show in your browser at: http://localhost:8080
 ```
-
-This will show in your browser at: `http://localhost:8080`
 
 
 ### Contributor
